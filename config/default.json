@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://entus1234:entus1234@devconnector-avcgz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "53d14a51ed66455826f2",
+  "githubSecret": "08a57d406b0662dd6983956a02f4c0d564820ed3"
+}
